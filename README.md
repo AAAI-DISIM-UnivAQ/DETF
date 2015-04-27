@@ -6,8 +6,8 @@ Some class diagrams may be created by UML-code alignment tools found in most IDE
 
 Diagrams available:
 
-* [Use case diagram](svg/WebDALI_UseCase.svg) for the DALI IDE
-* [Runtime deployment](svg/WebDALI_RunTime.svg) diagram
-* [Software components](svg/WebDALI_SoftwareComponents.svg) diagram
+* [Use case diagram](design/svg/WebDALI_UseCase.svg) for the DALI IDE
+* [Runtime deployment](design/svg/WebDALI_RunTime.svg) diagram
+* [Software components](design/svg/WebDALI_SoftwareComponents.svg) diagram
 
 
