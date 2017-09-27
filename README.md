@@ -1,4 +1,4 @@
-#DALI Engineering Task Force Design Documentation#
+# DALI Engineering Task Force Design Documentation
 
 All design diagrams here are created/edited using the [Draw.IO](http://draw.io) online editor.
 
@@ -9,6 +9,8 @@ Diagrams available:
 * [Use case diagram](design/svg/WebDALI_UseCase.svg) for the DALI IDE
 * [Runtime deployment](design/svg/WebDALI_RunTime.svg) diagram
 * [Software components](design/svg/WebDALI_SoftwareComponents.svg) diagram
+
+# References
 
 DETF Work outcomes have been published over the years:
 
