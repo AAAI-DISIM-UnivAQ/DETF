@@ -12,7 +12,7 @@ Diagrams available:
 
 # References
 
-DETF Work outcomes have been published over the years:
+DETF Work outcomes that have been published over the years:
 
 1. PADL 2017 : Costantini, S., De Gasperis, G., & Nazzicone, G. (2017, January). _DALI for cognitive robotics: principles and prototype implementation._ In International Symposium on Practical Aspects of Declarative Languages (pp. 152-162). Springer, Cham. [URL](http://link.springer.com/chapter/10.1007/978-3-319-51676-9_10)
 2. RuleML 2017: Dyoub, A., & De Gasperis, G. _Rule-Based Supervisor and Checker of Deep Learning Perception Modules in Cognitive Robotics._ [PDF-URL](http://ceur-ws.org/Vol-1875/paper23.pdf)
